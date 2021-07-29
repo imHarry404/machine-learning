@@ -1,0 +1,30 @@
+https://www.youtube.com/playlist?list=PLfP3JxW-T70HLRjrFP88sWlIDUlKahx8A
+
+
+
+22-07-2021
+day1 ->lec 1 to 7 all information about the ml
+
+22-07-2021
+day 2-> lec 8 to 12 , numpy starts
+
+23-07-2021
+day 3-> null
+
+24-07-2021
+day 4-> null
+
+25-07-2021
+day 5-> lec 9 to 21 , numpy end(17) and pandas started
+
+26-07-2021
+day 6> lec 22 and 23
+
+27-07-2021
+day 7> lec 24 to lec 33
+
+28-07-2021
+day 8> lec 34 to lec 50 , pandas end(41) and matplotlib start
+
+29-07-2021
+day 9>  
